@@ -24,4 +24,4 @@
 
 ### Status:
 
-![Meu Status](https://github-readme-stats.vercel.app/api?username=christianmendes&show_icons=true)
+![Meu Status](https://github-readme-stats.vercel.app/api?username=chris-mendes-paiva&show_icons=true)
