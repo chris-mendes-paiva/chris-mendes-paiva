@@ -18,9 +18,9 @@
 
 ![badge-javascript](https://img.shields.io/badge/Js-⭐⭐⭐⭐-blue)
 
-![badge-python](https://img.shields.io/badge/Python-⭐⭐-green)
+![badge-python](https://img.shields.io/badge/Python-⭐⭐-orange)
 
-![badge-english](https://img.shields.io/badge/English-⭐⭐-green)
+![badge-english](https://img.shields.io/badge/English-⭐⭐-orange)
 
 ### Status:
 
