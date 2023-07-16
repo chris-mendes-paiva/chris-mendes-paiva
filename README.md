@@ -5,7 +5,7 @@
 ### A bit about me:
 
 - 🔭 Currently I work as Senior Developer at [Sillion Technologies](http://www.sillion.com.br/static/)
-- 📫 Contact: [cris_mendes2110@hhotmail.com](mailto:cris_mendes2110@hhotmail.com)
+- 📫 Contact: [chris_mendes2110@hotmail.com](mailto:chris_mendes2110@hotmail.com)
 - 📫 Linkedin: https://www.linkedin.com/in/christian-mendes-93b83515b/
 - 😄 Interests: JavaScript, PHP, Python, IT Project Requirements and Project Management.
 
