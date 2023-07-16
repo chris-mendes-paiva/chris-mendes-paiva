@@ -16,7 +16,7 @@
 
 ![badge-laravel](https://img.shields.io/badge/Laravel-⭐⭐⭐⭐⭐-green)
 
-![badge-javascript](https://img.shields.io/badge/Js-⭐⭐⭐⭐-blue)
+![badge-javascript](https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐-blue)
 
 ![badge-python](https://img.shields.io/badge/Python-⭐⭐-orange)
 
