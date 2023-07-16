@@ -14,9 +14,11 @@
 
 ![badge-php](https://img.shields.io/badge/Php-⭐⭐⭐⭐⭐-green)
 
-![badge-python](https://img.shields.io/badge/Python-⭐⭐-blue)
+![badge-laravel](https://img.shields.io/badge/Laravel-⭐⭐⭐⭐⭐-green)
 
-![badge-js](https://img.shields.io/badge/Js-⭐⭐⭐⭐-orange)
+![badge-javascript](https://img.shields.io/badge/Js-⭐⭐⭐⭐-blue)
+
+![badge-python](https://img.shields.io/badge/Python-⭐⭐-green)
 
 ![badge-english](https://img.shields.io/badge/English-⭐⭐-green)
 
