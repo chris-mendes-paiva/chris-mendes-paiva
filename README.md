@@ -25,4 +25,4 @@
 ### Status:
 
   ![Meu Status](https://github-readme-stats.vercel.app/api?username=chris-mendes-paiva&show_icons=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-mendes-paiva&layout=compact&langs_count=7"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-mendes-paiva&layout=compact&langs_count=7"/>
