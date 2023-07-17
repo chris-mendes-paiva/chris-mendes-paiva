@@ -24,4 +24,11 @@
 
 ### Status:
 
-![Meu Status](https://github-readme-stats.vercel.app/api?username=chris-mendes-paiva&show_icons=true)
+<div align="center">
+<h1>Olá! Sou Manoel Flores Neto, desenvolvedor PHP, Java e JS.</h1>
+
+  <br>
+  <a href="https://github.com/manoelfnn">
+  ![Meu Status](https://github-readme-stats.vercel.app/api?username=chris-mendes-paiva&show_icons=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-mendes-paiva&layout=compact&langs_count=7&theme=dark"/>
+</div>
